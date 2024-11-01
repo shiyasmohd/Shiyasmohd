@@ -4,7 +4,7 @@
 
 - 💻 Building in Web3
 - 📫 How to reach me: *shiyasmohd.official@gmail.com*
-- Portfolio - [Link](https://shiyasmohd.vercel.app/)
+- Portfolio - [Link](https://shiyasmohd.xyz/)
 
 
 *🔨 Languages and Tools*  
