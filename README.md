@@ -1,6 +1,6 @@
 
 # Hey, I'm Shiyas
-### Web3 Dev
+### Software Engineer
 
 - 💻 Building in Web3
 - 📫 How to reach me: *shiyasmohd.official@gmail.com*
